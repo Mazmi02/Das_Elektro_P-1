@@ -1612,7 +1612,6 @@
   { "en": "Apa Itu Mesin Mealy (Mealy Machine)?", "id": "Output Mesin Keadaan Tergantung Keadaan, Input." },
   { "en": "Apa Kepanjangan PLTMH (Pembangkit Listrik Tenaga Mikrohidro)?", "id": "Pembangkit Listrik Tenaga Mikrohidro." },
   { "en": "Apa Sumber Energi PLTMH (Pembangkit Listrik Tenaga Mikrohidro)?", "id": "Aliran Air Skala Kecil (Sungai)." },
-  { "en": "Apa Kepanjangan VHDL (VHSIC Hardware Description Language)?", "id": "Bahasa Deskripsi Perangkat Keras VHSIC." },
   { "en": "Apa Kepanjangan Verilog (Verilog Hardware Description Language)?", "id": "Bahasa Deskripsi Perangkat Keras Verilog." },
   { "en": "Apa Fungsi VHDL (VHSIC Hardware Description Language) / Verilog?", "id": "Mendesain Sirkuit Logika Digital." },
   { "en": "Apa Kepanjangan FPGA (Field Programmable Gate Array)?", "id": "Array Gerbang Terprogram Lapangan." },
@@ -1652,11 +1651,9 @@
   { "en": "Apa Itu Algoritma Genetika (Genetic Algorithm)?", "id": "Algoritma Optimasi Terinspirasi Evolusi." },
   { "en": "Apa Kepanjangan DAQ (Data Acquisition System)?", "id": "Sistem Akuisisi Data." },
   { "en": "Apa Fungsi DAQ (Data Acquisition System)?", "id": "Mengumpulkan, Mengukur, Merekam Sinyal Fisik." },
-  { "en": "Apa Kepanjangan SCADA (Supervisory Control and Data Acquisition)?", "id": "Kontrol Pengawasan Dan Akuisisi Data." },
   { "en": "Apa Fungsi SCADA (Supervisory Control and Data Acquisition)?", "id": "Memonitor, Mengontrol Proses Industri Besar." },
   { "en": "Apa Kepanjangan HMI (Human Machine Interface)?", "id": "Antarmuka Manusia Mesin." },
   { "en": "Apa Fungsi HMI (Human Machine Interface)?", "id": "Visualisasi, Kontrol Proses Oleh Operator." },
-  { "en": "Apa Kepanjangan DCS (Distributed Control System)?", "id": "Sistem Kontrol Terdistribusi." },
   { "en": "Apa Beda SCADA (Supervisory Control and Data Acquisition) Dan DCS (Distributed Control System)?", "id": "SCADA (Supervisory Control and Data Acquisition) Berbasis Event, DCS (Distributed Control System) Proses." },
   { "en": "Apa Itu Bus Lapangan (Fieldbus)?", "id": "Jaringan Komunikasi Digital Industri." },
   { "en": "Sebutkan Contoh Protokol Bus Lapangan (Fieldbus)?", "id": "Modbus, Profibus, CANopen." },
@@ -2013,7 +2010,6 @@
   { "en": "Apa Itu Baterai (Battery) Primer?", "id": "Baterai Sekali Pakai (Tidak Bisa Isi Ulang)." },
   { "en": "Apa Itu Baterai (Battery) Sekunder?", "id": "Baterai Dapat Diisi Ulang." },
   { "en": "Sebutkan Contoh Baterai (Battery) Sekunder?", "id": "Aki (Lead-Acid), Lithium-Ion (Li-Ion)." }
-
 
 
         ];
